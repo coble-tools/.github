@@ -1,8 +1,11 @@
 ## COBLE - COnda-BuiLdEr
 
+Introduction to coble
+
+---  
 
 
-🌈 Contribution guidelines - how can the community get involved?
+🌈 **Contribution guidelines** 
 
 <!--
 
