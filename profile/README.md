@@ -1,6 +1,6 @@
 ## COBLE - COnda-BuiLdEr
 
-Introduction to coble
+See COBLE documentation: https://coble-tools.github.io/coble/
 
 ---  
 
