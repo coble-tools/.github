@@ -3,10 +3,6 @@
 See COBLE documentation: https://coble-tools.github.io/coble/
 
 ---  
-
-
-🌈 **Contribution guidelines** 
-
 <!--
 
 **Here are some ideas to get you started:**
